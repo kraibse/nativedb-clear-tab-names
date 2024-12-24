@@ -27,7 +27,7 @@ A userscript that dynamically updates the browser tab title to match the content
 2. **Install the Script**
    - Click on the userscript manager icon in your browser
    - Select "Create new script"
-   - Copy and paste the entire script from `title-updater.user.js`
+   - Copy and paste the entire script from `nativedb-clear-tab-names.user.js`
    - Save the script (usually Ctrl+S or ⌘+S)
 
 ## How It Works
@@ -60,7 +60,7 @@ To set up the development environment:
    ```bash
    git clone https://github.com/yourusername/nativedb-title-updater.git
    ```
-2. Make your changes in `title-updater.user.js`
+2. Make your changes in `nativedb-clear-tab-names.user.js`
 3. Test the script on https://nativedb.red4ext.com
 
 ## License
